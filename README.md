@@ -1,6 +1,7 @@
 # ISoL QA Portfolio
 
 ## 👩‍💻 About me
+My name is Olga.
 I am a Junior QA Tester.  
 Skilled in **manual testing** (functional, regression, UI) and currently **studying automated testing** (Playwright, TypeScript).  
 I enjoy creating **structured test documentation** and **visual guides** under the ISoL brand.
