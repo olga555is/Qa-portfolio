@@ -9,12 +9,19 @@ I enjoy making products more reliable and user‑friendly through thorough testi
 
 ---
 
-| № | Goal |
-|---|-------------------------------------------------------------|
-| 1 | Driven to grow as a QA engineer |
-| 2 | Eager to contribute to meaningful projects |
-| 3 | Focused on building clear, reliable, and well-tested solutions |
-| 4 | Open to collaboration and continuous learning |
+<table>
+  <tr>
+    <td>
+      🎓 Driven to grow as a QA engineer<br>
+      🕵️‍♂️ Eager to contribute to meaningful projects<br>
+      🔍 Focused on building clear, reliable, and well-tested solutions<br>
+      🤝 Open to collaboration and continuous learning
+    </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHZ4Z2k0OTA3YXRrNnAzdWptOG5rdTA4eXhtcWQ1ZGp4ejduaTVlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/51AhgeKNAamtcmcpGx/200w.gif" width="320" alt="QA Bug Hunting"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
