@@ -24,16 +24,4 @@ This repository showcases my QA practice:
 **Tools:** Jira, TestRail, Postman, Selenium, Pytest, GitHub  
 **Databases:** SQL basics
 
----
-
-## 📚 Education
-- Completed [“Software Testing from Scratch. Theory + Practice”](https://stepik.org/course/171826/syllabus) (Stepik, BASIC level)
-
----
-
-## 📬 Contacts
-- GitHub: [olga555is](https://github.com/olga555is)
-- Email: Olga555isaewa@gmail.com
-
-  
 
