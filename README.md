@@ -9,7 +9,7 @@ I enjoy creating **structured test documentation** and **visual guides** under t
 
 ## 📂 Portfolio
 This repository showcases my QA practice:
-- **Test cases** for web, mobile, and TV applications
+- **Test cases** for web, mobile applications
 - **Bug reports** with clear reproduction steps and expected vs actual results
 - **API testing** examples (Postman collections)
 - **Visual checklists and guides** (ISoL branded)
