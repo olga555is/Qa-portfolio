@@ -9,6 +9,15 @@ I enjoy making products more reliable and user‑friendly through thorough testi
 
 ---
 
+| № | Goal |
+|---|-------------------------------------------------------------|
+| 1 | Driven to grow as a QA engineer |
+| 2 | Eager to contribute to meaningful projects |
+| 3 | Focused on building clear, reliable, and well-tested solutions |
+| 4 | Open to collaboration and continuous learning |
+
+---
+
 ## 📂 Portfolio
 This repository showcases my QA practice:
 - **Test cases** for web, mobile applications
@@ -42,6 +51,23 @@ This repository showcases my QA practice:
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-00B0FF?style=for-the-badge&logo=testrail&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+
+## 📬 Contacts
+
+<p align="center">
+  <a href="mailto:olga555isaewa@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/Olechka555i" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40" alt="Telegram"/>
+  </a>
+</p>
+
+
+<p align="center"><i>Let’s connect — I’m always open to QA collaboration and new challenges.</i></p>
+
+
+
 
 
 
