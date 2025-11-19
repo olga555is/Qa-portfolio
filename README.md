@@ -5,6 +5,7 @@ My name is Olga.
 I am a Junior QA Tester.  
 Skilled in **manual testing** (functional, regression, UI) and currently **studying automated testing** (Playwright, TypeScript).  
 I enjoy making products more reliable and user‑friendly through thorough testing and continuous improvement.
+📄 My Resume (2021) ([QA - Resume.pdf](QA - Resume.pdf))
 
 ---
 
