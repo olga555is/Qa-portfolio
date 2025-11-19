@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About me
 My name is Olga.
-Junior QA Tester focused on manual testing and transitioning into automation (Playwright, TypeScript).  
+Junior QA Tester focused on manual testing and transitioning into automation.  
 Skilled in **manual testing** (functional, regression, UI) and currently **studying automated testing** (Playwright, TypeScript).  
 I enjoy making products more reliable and user‑friendly through thorough testing and continuous improvement.
 [📄 My Resume (PDF)](QA%20T.%20Resume.pdf)
