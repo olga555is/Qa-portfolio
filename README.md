@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About me
 My name is Olga.
-I am a Junior QA Tester.  
+Junior QA Tester focused on manual testing and transitioning into automation (Playwright, TypeScript).  
 Skilled in **manual testing** (functional, regression, UI) and currently **studying automated testing** (Playwright, TypeScript).  
 I enjoy making products more reliable and user‑friendly through thorough testing and continuous improvement.
 [📄 My Resume (PDF)](QA%20T.%20Resume.pdf)
@@ -19,12 +19,10 @@ This repository showcases my QA practice:
 ---
 
 ## 🛠 Skills & Tools
-- Manual testing: functional, regression, UI
-- Automated testing (studying): Playwright, TypeScript
-- Test management: Jira, TestRail
-- API testing: Postman
-- Databases: SQL basics
-- Other: Selenium, Pytest, GitHub
+**Manual testing:** functional, regression, UI  
+**Automation (learning):** Playwright, TypeScript  
+**Tools:** Jira, TestRail, Postman, Selenium, Pytest, GitHub  
+**Databases:** SQL basics
 
 ---
 
@@ -34,5 +32,8 @@ This repository showcases my QA practice:
 ---
 
 ## 📬 Contacts
-- GitHub:  
-- LinkedIn: *in the process of adding*  
+- GitHub: [olga555is](https://github.com/olga555is)
+- Email: Olga555isaewa@gmail.com
+
+  
+
