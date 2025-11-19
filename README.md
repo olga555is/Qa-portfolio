@@ -32,5 +32,5 @@ This repository showcases my QA practice:
 ---
 
 ## 📬 Contacts
-- GitHub: [ISoL](https://github.com/ISoL)  
+- GitHub:  
 - LinkedIn: *in the process of adding*  
