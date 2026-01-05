@@ -54,6 +54,7 @@ This repository showcases my QA practice:
   <img src="https://camo.githubusercontent.com/70c01aaaf4d627afd14f3ff2c78a1116114c3e0313a0718d68bc2ba3e7694822/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67" width="40" height="40" alt="Chrome DevTools"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://static.tildacdn.com/tild3363-6337-4330-b765-643930613765/image_162.png" width="40" height="40" alt="TestIT"/>
 </p>
 
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
