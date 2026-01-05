@@ -55,6 +55,7 @@ This repository showcases my QA practice:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 <img src="https://static.tildacdn.com/tild3363-6337-4330-b765-643930613765/image_162.png" width="40" height="40" alt="TestIT"/>
+<img src="https://cdn-1.webcatalog.io/catalog/qase/qase-icon-filled-256.webp?v=1718683571396" width="40" height="40" alt="Qase"/>
 </p>
 
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
